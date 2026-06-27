@@ -1,3 +1,6 @@
+#Extract a dataset of your choice and compute the correlation between any two variables
+#and visualize the relationship using scatter plot using JMP Pro tool.
+
 data()
 mtcars
 
